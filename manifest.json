@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "id": "ishanp.segmented-pill-bar",
+  "name": "Segmented Pill Bar",
+  "version": "1.0.0",
+  "author": "ishan-parihar",
+  "description": "Segmented pill bar — window is transparent, pills only behind widget clusters. Center cluster anchored on calendar, ideal for dense centered layouts. Cloned from omarchy.bar.",
+  "kinds": ["bar"],
+  "entryPoints": { "bar": "Bar.qml" },
+  "omarchy": { "clonedFrom": "omarchy.bar" }
+}
